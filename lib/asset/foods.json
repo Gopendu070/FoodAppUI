@@ -1,0 +1,41 @@
+{
+    "foods":[
+        {
+            "name":"Don Noodles",
+            "img":"lib/asset/image/DonNoodles.png",
+            "description":"Spicy fruit mixed",
+            "calories":"120",
+            "price":"8.86"
+        },
+        {
+            "name":"Oni Sandwich",
+            "img":"lib/asset/image/OniSandwich.png",
+            "description":"Spicy chicken sandwich",
+            "calories":"69",
+            "price":"6.72"
+        },
+        
+        {
+            "name":"Chicken Dimsum",
+            "img":"lib/asset/image/Dimsum.png",
+            "description":"Spicy chicken dimsum",
+            "calories":"65",
+            "price":"6.99"
+        },
+        {
+            "name":"Egg Pasta",
+            "img":"lib/asset/image/EggPasta.png",
+            "description":"Spicy chicken pasta",
+            "calories":"78",
+            "price":"9.80"
+        },
+       
+        {
+            "name":"Chicken Pizza",
+            "img":"lib/asset/image/Pizza.png",
+            "description":"Spicy chicken pizza",
+            "calories":"135",
+            "price":"8.99"
+        }
+    ]
+}
