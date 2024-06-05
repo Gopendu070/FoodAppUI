@@ -2,15 +2,6 @@
 
 It demonstarate a basic UI for a food delivery application.
 
-## Getting Started
+# Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-06-06 at 02 28 07_0ccc2d34](https://github.com/Gopendu070/FoodAppUI/assets/92077709/42e63bdd-c09c-46f1-97c8-f4a4c5792475)
