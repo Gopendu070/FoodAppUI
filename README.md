@@ -1,6 +1,6 @@
-# kudosware
+# Food Searching App UI
 
-A new Flutter project.
+It demonstarate a basic UI for a food delivery application.
 
 ## Getting Started
 
